@@ -1,0 +1,17 @@
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\bin\Debug\CODE.PackRat.TestBench.Wpf.exe.config
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\bin\Debug\CODE.PackRat.TestBench.Wpf.exe
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\bin\Debug\CODE.PackRat.TestBench.Wpf.pdb
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\bin\Debug\CODE.PackRat.Core.dll
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\bin\Debug\NuGet.Core.dll
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\bin\Debug\CODE.PackRat.Core.pdb
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\obj\Debug\CODE.PackRat.TestBench.Wpf.csprojResolveAssemblyReference.cache
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\obj\Debug\MainWindow.baml
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\obj\Debug\MainWindow.g.cs
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\obj\Debug\App.g.cs
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\obj\Debug\CODE.PackRat.TestBench.Wpf_MarkupCompile.cache
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\obj\Debug\CODE.PackRat.TestBench.Wpf.g.resources
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\obj\Debug\CODE.PackRat.TestBench.Wpf.Properties.Resources.resources
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\obj\Debug\CODE.PackRat.TestBench.Wpf.csproj.GenerateResource.Cache
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\obj\Debug\CODE.PackRat.TestBench.Wpf.exe
+C:\Projects\PackRat\PackRat\CODE.PackRat.TestBench.Wpf\obj\Debug\CODE.PackRat.TestBench.Wpf.pdb

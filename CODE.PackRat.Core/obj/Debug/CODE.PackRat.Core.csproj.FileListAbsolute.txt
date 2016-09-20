@@ -1,0 +1,7 @@
+C:\Projects\PackRat\PackRat\CODE.PackRat.Core\bin\Debug\CODE.PackRat.Core.dll
+C:\Projects\PackRat\PackRat\CODE.PackRat.Core\bin\Debug\CODE.PackRat.Core.pdb
+C:\Projects\PackRat\PackRat\CODE.PackRat.Core\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Projects\PackRat\PackRat\CODE.PackRat.Core\bin\Debug\NuGet.Core.dll
+C:\Projects\PackRat\PackRat\CODE.PackRat.Core\obj\Debug\CODE.PackRat.Core.csprojResolveAssemblyReference.cache
+C:\Projects\PackRat\PackRat\CODE.PackRat.Core\obj\Debug\CODE.PackRat.Core.dll
+C:\Projects\PackRat\PackRat\CODE.PackRat.Core\obj\Debug\CODE.PackRat.Core.pdb
